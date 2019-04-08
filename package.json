@@ -1,0 +1,19 @@
+{
+  "name": "myfirstjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.0",
+    "ethereumjs-util": "latest",
+    "ethereumjs-wallet": "^0.6.3",
+    "ethers": "^4.0.27",
+    "truffle-hdwallet-provider": "^1.0.6"
+  }
+}
